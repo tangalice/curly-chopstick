@@ -31,6 +31,7 @@ Someone that is empowered can help someone that is not empowered by donating mon
 Red tape is blocking digital empowerment. You can use paper and still be digitally empowered. But with red tape it is a lot harder. At del norte, the school wifi network is a barrier. It blocks out many sites and content that can be useful to students learning. For example, in our very own computer science class, our deployed websites are blocked on school wifi. It is a huge barrier if students in del Norte’s computer science classroom cannot access their own work at school. There are also red tape barriers elsewhere, such as North Korea. People there do not have free access to the internet
 
 ### Activites
+Key Learning: I learned how to "animate something" with the use of funcation, variables and print statements. I also learned how to make a menu
 [Swap](https://replit.com/@alicet1/curly-chopstick#swap.py)
 [Fish Animation](https://replit.com/@alicet1/curly-chopstick#animation2.py)
 [Menu](https://replit.com/@alicet1/curly-chopstick#menu.py)
