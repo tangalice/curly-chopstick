@@ -35,11 +35,7 @@ Red tape is blocking digital empowerment. You can use paper and still be digital
 
 ### Week 0 Activites
 Key Learning: I learned how to "animate something" with the use of funcation, variables and print statements. I also learned how to make a menu <br>
-[Swap](https://replit.com/@alicet1/curly-chopstick#swap.py) <br>
-[Fish Animation](https://replit.com/@alicet1/curly-chopstick#animation2.py) <br>
-[Menu](https://replit.com/@alicet1/curly-chopstick#menu.py) <br>
-[Christmas Tree](https://replit.com/@alicet1/curly-chopstick#christmastree.py) <br>
-[Keypad](https://replit.com/@alicet1/curly-chopstick-1#matrix.py)
+[Replit](https://replit.com/join/lfjrokejug-alicet1)
 
 ### Create Task
 Snippets:
@@ -48,7 +44,6 @@ if (!gameOver && row == height) {
                 gameOver = true;
                 document.getElementById("answer").innerText = word;
             }
-
 ```
 [Create Task Description](https://github.com/samayass/flask_portfolio/wiki/Create-Task-Plan:-Samaya-&-Alice) <br>
 [Create Task Runtime](http://studyowl.tk:8080/test/) <br>
