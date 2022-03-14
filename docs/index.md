@@ -42,6 +42,14 @@ Key Learning: I learned how to "animate something" with the use of funcation, va
 [Keypad](https://replit.com/@alicet1/curly-chopstick-1#matrix.py)
 
 ### Create Task
+Snippets:
+```
+if (!gameOver && row == height) {
+                gameOver = true;
+                document.getElementById("answer").innerText = word;
+            }
+
+```
 [Create Task Description](https://github.com/samayass/flask_portfolio/wiki/Create-Task-Plan:-Samaya-&-Alice) <br>
 [Create Task Runtime](http://studyowl.tk:8080/test/) <br>
 [Create Task Code](https://github.com/samayass/flask_portfolio/blob/main/templates/test.html)
