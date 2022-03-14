@@ -1,5 +1,8 @@
 ## Alice's Github Pages
 
+### Week 0 Review Ticket
+[Review Ticket](https://github.com/tangalice/curly-chopstick/issues/1) <br>
+
 ### Test Prep
 5.1 Notes: Beneficial and Harmful effects of computing
 - Computing benefits society, program drones to have many uses(aerial search, hobbies, military usage)
