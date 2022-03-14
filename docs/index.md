@@ -3,7 +3,7 @@
 ### Week 0 Review Ticket
 [Review Ticket](https://github.com/tangalice/curly-chopstick/issues/1) <br>
 
-### Test Prep
+### Week 0 Test Prep
 5.1 Notes: Beneficial and Harmful effects of computing
 - Computing benefits society, program drones to have many uses(aerial search, hobbies, military usage)
 - computing created applications and games that bring lots of pleasure to ppl (dopamine is released in their brains), they become addicted which is very harmful
@@ -33,7 +33,7 @@ Someone that is empowered can help someone that is not empowered by donating mon
 3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?: <br>
 Red tape is blocking digital empowerment. You can use paper and still be digitally empowered. But with red tape it is a lot harder. At del norte, the school wifi network is a barrier. It blocks out many sites and content that can be useful to students learning. For example, in our very own computer science class, our deployed websites are blocked on school wifi. It is a huge barrier if students in del Norte’s computer science classroom cannot access their own work at school. There are also red tape barriers elsewhere, such as North Korea. People there do not have free access to the internet
 
-### Activites
+### Week 0 Activites
 Key Learning: I learned how to "animate something" with the use of funcation, variables and print statements. I also learned how to make a menu <br>
 [Swap](https://replit.com/@alicet1/curly-chopstick#swap.py) <br>
 [Fish Animation](https://replit.com/@alicet1/curly-chopstick#animation2.py) <br>
