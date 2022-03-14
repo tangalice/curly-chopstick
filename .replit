@@ -1,0 +1,6 @@
+language = "python"
+
+#run = "python swap.py"
+#run = "python menu.py"
+#run = "python animation.py"
+run = "python animation2.py"
