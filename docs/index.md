@@ -30,6 +30,9 @@ Someone that is empowered can help someone that is not empowered by donating mon
 3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?: <br>
 Red tape is blocking digital empowerment. You can use paper and still be digitally empowered. But with red tape it is a lot harder. At del norte, the school wifi network is a barrier. It blocks out many sites and content that can be useful to students learning. For example, in our very own computer science class, our deployed websites are blocked on school wifi. It is a huge barrier if students in del Norte’s computer science classroom cannot access their own work at school. There are also red tape barriers elsewhere, such as North Korea. People there do not have free access to the internet
 
+### Activites
+[Replit Code and Runtime](https://replit.com/@alicet1/curly-chopstick#swap.py)
+
 ### Create Task
 [Create Task Description](https://github.com/samayass/flask_portfolio/wiki/Create-Task-Plan:-Samaya-&-Alice) <br>
 [Create Task Runtime](http://studyowl.tk:8080/test/) <br>
