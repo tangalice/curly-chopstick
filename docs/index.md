@@ -32,6 +32,7 @@ Red tape is blocking digital empowerment. You can use paper and still be digital
 
 ### Activites
 [Replit Code and Runtime](https://replit.com/@alicet1/curly-chopstick#swap.py)
+[Fish Animation](https://replit.com/@alicet1/curly-chopstick#animation2.py)
 
 ### Create Task
 [Create Task Description](https://github.com/samayass/flask_portfolio/wiki/Create-Task-Plan:-Samaya-&-Alice) <br>
