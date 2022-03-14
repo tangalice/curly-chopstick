@@ -44,4 +44,4 @@ Key Learning: I learned how to "animate something" with the use of funcation, va
 ### Create Task
 [Create Task Description](https://github.com/samayass/flask_portfolio/wiki/Create-Task-Plan:-Samaya-&-Alice) <br>
 [Create Task Runtime](http://studyowl.tk:8080/test/) <br>
-[Code](https://github.com/samayass/flask_portfolio/blob/main/templates/test.html)
+[Create Task Code](https://github.com/samayass/flask_portfolio/blob/main/templates/test.html)
