@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## Alice's Github Pages
 
 ### Week 0 Review Ticket

@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## Tech Talk Activites
 
 ### Week 0 Activites
