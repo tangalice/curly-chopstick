@@ -8,4 +8,3 @@ def tree():
     print("       ****       ")
 
 
-tree()
