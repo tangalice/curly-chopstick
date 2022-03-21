@@ -3,8 +3,9 @@
 ## Alice's Github Pages
 
 
-### Week 0 Review Ticket
-[Review Ticket](https://github.com/tangalice/curly-chopstick/issues/1) <br>
+### Review Tickets
+[Week 0 Review Ticket](https://github.com/tangalice/curly-chopstick/issues/1) <br>
+[Week 1 Review Ticket](https://github.com/tangalice/curly-chopstick/issues/2) <br>
 
 
 
