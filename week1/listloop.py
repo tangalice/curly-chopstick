@@ -1,44 +1,43 @@
-# Hack 1: InfoDB lists.  Build your own/personalized InfoDb with a list length > 3,  create list within a list as illustrated with Owns_Cars
-
 InfoDb = []
 # List with dictionary records placed in a list  
 InfoDb.append({  
-               "Common_Name": "Fennec Fox",  
-               "Scientific_Name": "Vulpes Zerda",  
-               "Conservation_Status": "Least Concern",    
-               "Preferred_Foods":["Grasshoppers" , "Lizards" , "Birds" , "Eggs" , "Fruits" , "Leaves"]  
+               "Name": "Luca",  
+               "Nickname": "Fatty shat",  
+               "Animal": "Domestic short hair cat",    
+               "Likes":["Meowing" , "Sleeping" , "Treats" , "Cuddling", "Scratching"]  
               })  
 
 InfoDb.append({  
-               "Common_Name": "Ground Squirrel",  
-               "Scientific_Name": "Spermophilus Richardsonii",  
-               "Conservation_Status": "Least Concern",    
-               "Preferred_Foods":["Seeds" , "Nuts" , "Corn" , "Fruit" , "Leaves" , "Fungi" , "Bark"]   
+               "Name": "Apollo",  
+               "Nickname": "Binger shat",  
+               "Animal": "Domestic short hair cat",    
+               "Likes":["Staring" , "Sleeping" , "Sniffing"]    
               })  
 
 InfoDb.append({  
-               "Common_Name": "Alpine Ibex",  
-               "Scientific_Name": "Capra Ibex",  
-               "Conservation_Status": "Least Concern",    
-               "Preferred_Foods":["Grasses", "Mosses" , "Flowers" , "Leaves" , "Twigs"]   
+               "Name": "Bella",  
+               "Nickname": "Bug",  
+               "Animal": "French Bulldog",    
+               "Likes":["Barking" , "Chasing" , "Treats" , "Running"]   
               })  
 
 InfoDb.append({  
-               "Common_Name": "Dormouse",  
-               "Scientific_Name": "Gliridae",  
-               "Conservation_Status": "Least Concern",    
-               "Preferred_Foods":["Fruit" , "Hazelnuts" , "Acorns" , "Pine Seeds" , "Bark", "Eggs"]   
+               "Name": "Spotus",  
+               "Nickname": "Spoot",  
+               "Animal": "African Grey Parrot",    
+               "Likes":["Flying" , "Talking" , "Toys" , "Nuts", "Dancing", "Music"]    
               })  
 
 # given an index this will print InfoDb content
 def print_data(n):
-    print(InfoDb[n]["Common_Name"]) 
-    print(InfoDb[n]["Scientific_Name"]) 
-    print("\t", "Conservation Status: ", end="") 
-    print(InfoDb[n]["Conservation_Status"]) 
+    print(InfoDb[n]["Name"]) 
+    print("\t", "Nickname: ", end="") 
+    print(InfoDb[n]["Nickname"]) 
+    print("\t", "Animal: ", end="") 
+    print(InfoDb[n]["Animal"]) 
 # using comma puts space between values
-    print("\t", "Preferred Foods: ", end="")  # \t is a tab indent, end="" make sure no return occurs
-    print(", ".join(InfoDb[n]["Preferred_Foods"]))  # join allows printing a string list with separator
+    print("\t", "Likes: ", end="")  # \t is a tab indent, end="" make sure no return occurs
+    print(", ".join(InfoDb[n]["Likes"]))  # join allows printing a string list with separator
     print()
 
 def for_loop():

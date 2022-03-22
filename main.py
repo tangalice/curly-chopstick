@@ -1,7 +1,7 @@
-from week0.animation2 import animate
+from week0.animation import animate
 from week0.matrix import test_matrices
 from week0.swap import test_swappers
-from week0.christmastree import tree
+from week0.tree import tree
 from week1.listloop import for_loop, while_loop, recursive_loop
 from week1.fibonacci import fibonacci
 
@@ -14,25 +14,19 @@ week0_sub_menu = [
     ["Tree", tree],
 ]
 
+week1_sub_menu = [["Fibonacci", fibonacci], ["For-Loop", for_loop],
+                  ["While-Loop", while_loop],
+                  ["Recursive-Loop", recursive_loop]]
 
-week1_sub_menu = [
-    ["Fibonacci", fibonacci],
-    ["For-Loop", for_loop],
-    ["While-Loop", while_loop],
-    ["Recursive-Loop", recursive_loop]
-]
-
-
-
-border = "_-_-_-_-_-_-_-_-_-_"
+border = "======================="
 banner = f"\n{border}\nPlease Select An Option\n{border}"
 
 
 def menu():
     title = "Weekly Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Week 1", week1_submenu])
     menu_list.append(["Week 0", week0_submenu])
+    menu_list.append(["Week 1", week1_submenu])
     buildMenu(title, menu_list)
 
 
@@ -40,9 +34,11 @@ def week1_submenu():
     title = "Week 1 Submenu" + banner
     buildMenu(title, week1_sub_menu)
 
+
 def week0_submenu():
     title = "Week 0 Submenu" + banner
     buildMenu(title, week0_sub_menu)
+
 
 def buildMenu(banner, options):
     # header for menu
@@ -55,10 +51,10 @@ def buildMenu(banner, options):
 
     # print menu or dictionary
     for key, value in prompts.items():
-        print(key, '| ⇨ ', value[0])
+        print(key, '- ', value[0])
 
     # get user choice
-    choice = input("Type your choice ⊱ ")
+    choice = input("Type your choice: ")
     print()
     # validate choice and run
     # execute selection
