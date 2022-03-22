@@ -3,7 +3,7 @@
 ## Tech Talk Activites
 
 
-[Replit](https://replit.com/join/lfjrokejug-alicet1) <br>
+[Replit](https://replit.com/@alicet1/alice-individual#main.py) <br>
 <iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@alicet1/alice-individual#main.py"> <br>
 
 
