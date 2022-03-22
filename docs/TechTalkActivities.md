@@ -9,7 +9,7 @@ Key Learning: I learned how to "animate something" with the use of funcation, va
 Key Learning: I learned about lists and using loops to print the information inside of lists. Using loops is a more effecient way to print everything espeically if you have a lot of information where there are lists inside of lists
 
 [Replit](https://replit.com/@alicet1/alice-individual#main.py) <br>
-<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@alicet1/alice-individual#main.py"> <br>
-
+<iframe frameborder="0" width="1000px" width="800" src="https://replit/com/@tangalice/curly-chopstick?lite=main.py"></iframe>
+<iframe frameborder=“0” width=“100%” height=“800px” src=“https://replit.com/@tangalice/alice-individual?lite=main.py”></iframe>
 
 
