@@ -11,7 +11,7 @@
 -  self driving cars have trouble detecting pedestrians of darker skin color <br>
 
 Github Pages Action:
-1. Does the owner of the computer think this was intentional?: no <br>
+1. Does the owner of the computer think this was intentional?: no, he was not being completely serious as he was discussing the issue almost in a joking tone. It was an unintentional mistake. <br>
 2. If yes or no, justify you conclusion: HP computers would not discrimate against black people on purpose <br>
 3. How do you think this happened?: <br>
 Machine learning uses contrast between dark areas of face with shadows and lighter areas of the face to detect a human face. on darker skinned individuals, especially with just a low quality webcam, there is less contrast and the computer does not pick it up as a face. it is not intentional. <br>
