@@ -1,7 +1,7 @@
-from week0.animate2 import animate
+from week0.animation2 import animate
 from week0.matrix import test_matrices
 from week0.swap import test_swappers
-from week0.tree import tree
+from week0.christmastree import tree
 from week1.listloop import for_loop, while_loop, recursive_loop
 from week1.fibonacci import fibonacci
 
