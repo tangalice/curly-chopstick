@@ -10,6 +10,5 @@ Key Learning: I learned about lists and using loops to print the information ins
 
 [Replit](https://replit.com/@alicet1/alice-individual#main.py) <br>
 <iframe frameborder="0" width="1000px" width="800px" src="https://replit.com/@tangalice1/curly-chopstick?lite=main.py"></iframe> 
-<!--  <iframe frameborder=“0” width=“1000px” height=“800px” src=“https://replit.com/@tangalice1/alice-individual?lite=main.py”></iframe> -->
 
 
