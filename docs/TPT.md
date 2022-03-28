@@ -14,7 +14,7 @@
 
 Github Pages Action:
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages. <br>
-A Creative Commons License waives copyright interest in your work and dedicates it to world-wide public domain. An Open Source MIT License allows free code use and distribution of closed source versions. An Open Source GPL License lets people do almost anything with your project except distribution of closed source versions.<br>
+A Creative Commons License waives copyright interest in your work and dedicates it to world-wide public domain. An Open Source GPL License lets people do almost anything with your project except distribution of closed source versions. An Open Source MIT License allows free code use and distribution of closed source versions. <br>
 2. Make a license for your personal and Team project. Document license you picked and why. <br>
 Our team and sponsor all agreed on using a Creative Commons License because it is ideal for educational use, and our website encourages readers to develop their education through the love of reading. Also, we wouldn't mind if other CSP students wanted to build onto our project and improve it. A Creative Commons License would be ideal for this purpose, as long as we are given some form of credit. <br>
 
