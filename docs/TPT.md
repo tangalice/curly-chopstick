@@ -18,7 +18,6 @@ A Creative Commons License waives copyright interest in your work and dedicates 
 2. Make a license for your personal and Team project. Document license you picked and why. <br>
 Our team and sponsor all agreed on using a Creative Commons License because it is ideal for educational use, and our website encourages readers to develop their education through the love of reading. Also, we wouldn't mind if other CSP students wanted to build onto our project and improve it. A Creative Commons License would be ideal for this purpose, as long as we are given some form of credit. <br>
 
-
 5.6 Notes: Safe Computing <br>
 - PI = personally identifiable information <br>
 - Can be used to steal someone’s identity, bank funds, or to impersonate someone someone in order to gain access to an organization <br>
