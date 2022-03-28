@@ -4,11 +4,13 @@
 
 ### Week 2 Test Prep <br>
 5.5 Notes: Legal and Ethical Concerns <br>
-- It’s important to know the type of software license you are copying, ensuring compliance with the terms<br>
-- Here are some of the licenses we are choosing from for our project<br>
-- Creative Commons Zero v1.0 Universal<br>
-- Open Source MIT License<br>
-- Open Source GPL License<br>
+- (IP) is a work or invention that is the result of creativity to which one has rights <br>
+- Copyright protects the IP, and prevents people from using it unless permission is granted <br>
+- Plagiarism is when you present material as your own <br>
+- The legal ways to use material created by someone else is Creative Commons, open source, and open access <br>
+- Creative commons provides free licenses, they tell others how you want them to use the creations (tells people what they can do with your work) <br>
+- Open source are programs that are freely available for anyone to use <br>
+- Open access is online research that has not a lot of restrictions <br>
 
 Github Pages Action:
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages. <br>
@@ -18,11 +20,19 @@ Our team and sponsor all agreed on using a Creative Commons License because it i
 
 
 5.6 Notes: Safe Computing <br>
-- PII: Personal Identifiable Information <br>
-- public information - name, email, picture, high school, college, properties<br>
-- cautious of - birthdate, place of birth, address, phone number, maiden names of mother, drivers license number<br>
-- keep secret - credentials for access, 2-factor authentication, social security, tax records<br>
-- safety practices to establish: multi-factor authentication, be on the lookout for malware and phishing<br>
+- PI = personally identifiable information <br>
+- Can be used to steal someone’s identity, bank funds, or to impersonate someone someone in order to gain access to an organization <br>
+- Search engines maintain a history of what you search <br>
+- PII can be used to enhance a user’s online experience <br>
+- Can be used to enhance a user’s online experience, but it can also be exploited (harmful impact) <br>
+- Google knows your email and your IP address <br>
+- The federal government knows where/learns where and when you are traveling <br>
+- To create a strong passwords: (10+ characters, must contain a symbol, must contain number and lowercase and uppercase letters) <br>
+- Multi-Factor Authentication: What you know, what you have, what you are <br>
+- Two types of encryption: Symmetric and Asymmetric encryption: <br>
+- Symmetric encyrption is when one key is used to both encrypt and decrypt data <br>
+- Asymettric Encryption is a Public Key Encryption: it uses two keys (a public key for encypting, and a private key for decrypting) <br>
+- The benefit here is that a sender does not need the receiver’s key to encrypt a message, but needs it to decrypt it. <br>
 
 GitHub pages actions:
 1. Describe PII you have seen on project in CompSci Principles. <br>
