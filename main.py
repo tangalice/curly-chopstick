@@ -4,19 +4,29 @@ from week0.swap import test_swappers
 from week0.tree import tree
 from week1.listloop import for_loop, while_loop, recursive_loop
 from week1.fibonacci import fibonacci
+from week2.factorial import factorial
+from week2.factors import tester
 
 main_menu = []
 
 week0_sub_menu = [
-    ["Animate", animate],
-    ["Matrix", test_matrices],
-    ["Swap", test_swappers],
-    ["Tree", tree],
+  ["Animate", animate],
+  ["Matrix", test_matrices],
+  ["Swap", test_swappers],
+  ["Tree", tree],
 ]
 
-week1_sub_menu = [["Fibonacci", fibonacci], ["For-Loop", for_loop],
-                  ["While-Loop", while_loop],
-                  ["Recursive-Loop", recursive_loop]]
+week1_sub_menu = [
+  ["Fibonacci", fibonacci], 
+  ["For-Loop", for_loop],
+  ["While-Loop", while_loop],
+  ["Recursive-Loop", recursive_loop],
+]
+
+week2_sub_menu = [
+  ["Factorial", factorial],
+  ["Factors", tester],
+]
 
 border = "======================="
 banner = f"\n{border}\nPlease Select An Option\n{border}"
@@ -27,17 +37,21 @@ def menu():
     menu_list = main_menu.copy()
     menu_list.append(["Week 0", week0_submenu])
     menu_list.append(["Week 1", week1_submenu])
+    menu_list.append(["Week 2", week2_submenu])
     buildMenu(title, menu_list)
-
-
-def week1_submenu():
-    title = "Week 1 Submenu" + banner
-    buildMenu(title, week1_sub_menu)
 
 
 def week0_submenu():
     title = "Week 0 Submenu" + banner
     buildMenu(title, week0_sub_menu)
+
+def week1_submenu():
+    title = "Week 1 Submenu" + banner
+    buildMenu(title, week1_sub_menu)
+
+def week2_submenu():
+    title = "Week 2 Submenu" + banner
+    buildMenu(title, week2_sub_menu)
 
 
 def buildMenu(banner, options):
