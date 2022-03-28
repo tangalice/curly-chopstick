@@ -2,6 +2,33 @@
 
 ## TPT
 
+### Week 2 Test Prep <br>
+5.5 Notes: Legal and Ethical Concerns <br>
+- computer algoriths, just like humans, can show bias (created by humans) <br>
+- purposeful bias used to show content catered toward a specific group <br>
+- purposeful bias can be helpful to increase profits for companies <br>
+- accidental bias can result from a computer algorithim only taking information from a specific group of people <br>
+- self driving cars have trouble detecting pedestrians of darker skin color <br>
+
+Github Pages Action:
+1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+2. Make a license for your personal and Team project. Document license you picked and why.
+
+
+5.6 Notes: Crowdsourcing <br>
+- Crowdsourcing: obtain information from large groups of people <br>
+- Wikipedia is available because of crowdsourcing, people everywhere upload information that gets fact checked <br>
+- we have participated in crowdsourcing on github, share code <br>
+- some people don't think crowdsourcing is reliable but crowdsourcing can help remove bias <br>
+- the more opinions and information gathered from more people from more diverse backgrounds the less likely there is to be bias <br>
+
+GitHub pages actions:
+1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?: <br>
+Gather code information from everyone on github, to create a very large collaborative project where everyone has one page to share their favorite feature/minilab they have created.
+3. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?: <br>
+Del Norte has used crowdsorucing before to elect and choose the best asb president and other positions. the choice is representative of everyone's group decision because everyone gives there opinion. Crowdsourcing from other students could help my final project to choose what kinda of features everyone most wants on a reading website. <br>
+
+
 ### Week 1 Test Prep <br>
 5.3 Notes: Computer Bias <br>
 - computer algoriths, just like humans, can show bias (created by humans) <br>
