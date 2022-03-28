@@ -4,29 +4,48 @@
 
 ### Week 2 Test Prep <br>
 5.5 Notes: Legal and Ethical Concerns <br>
-- computer algoriths, just like humans, can show bias (created by humans) <br>
-- purposeful bias used to show content catered toward a specific group <br>
-- purposeful bias can be helpful to increase profits for companies <br>
-- accidental bias can result from a computer algorithim only taking information from a specific group of people <br>
-- self driving cars have trouble detecting pedestrians of darker skin color <br>
+- (IP) is a work or invention that is the result of creativity to which one has rights <br>
+- Copyright protects the IP, and prevents people from using it unless permission is granted <br>
+- Plagiarism is when you present material as your own <br>
+- The legal ways to use material created by someone else is Creative Commons, open source, and open access <br>
+- Creative commons provides free licenses, they tell others how you want them to use the creations (tells people what they can do with your work) <br>
+- Open source are programs that are freely available for anyone to use <br>
+- Open access is online research that has not a lot of restrictions <br>
 
 Github Pages Action:
-1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
-2. Make a license for your personal and Team project. Document license you picked and why.
+1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages. <br>
+A Creative Commons License waives copyright interest in your work and dedicates it to world-wide public domain. An Open Source GPL License lets people do almost anything with your project except distribution of closed source versions. An Open Source MIT License allows free code use and distribution of closed source versions. <br>
+2. Make a license for your personal and Team project. Document license you picked and why. <br>
+Our team and sponsor all agreed on using a Creative Commons License because it is ideal for educational use, and our website encourages readers to develop their education through the love of reading. Also, we wouldn't mind if other CSP students wanted to build onto our project and improve it. A Creative Commons License would be ideal for this purpose, as long as we are given some form of credit. <br>
 
-
-5.6 Notes: Crowdsourcing <br>
-- Crowdsourcing: obtain information from large groups of people <br>
-- Wikipedia is available because of crowdsourcing, people everywhere upload information that gets fact checked <br>
-- we have participated in crowdsourcing on github, share code <br>
-- some people don't think crowdsourcing is reliable but crowdsourcing can help remove bias <br>
-- the more opinions and information gathered from more people from more diverse backgrounds the less likely there is to be bias <br>
+5.6 Notes: Safe Computing <br>
+- PI = personally identifiable information <br>
+- Can be used to steal someone’s identity, bank funds, or to impersonate someone someone in order to gain access to an organization <br>
+- Search engines maintain a history of what you search <br>
+- PII can be used to enhance a user’s online experience <br>
+- Can be used to enhance a user’s online experience, but it can also be exploited (harmful impact) <br>
+- Google knows your email and your IP address <br>
+- The federal government knows where/learns where and when you are traveling <br>
+- To create a strong passwords: (10+ characters, must contain a symbol, must contain number and lowercase and uppercase letters) <br>
+- Multi-Factor Authentication: What you know, what you have, what you are <br>
+- Two types of encryption: Symmetric and Asymmetric encryption: <br>
+- Symmetric encyrption is when one key is used to both encrypt and decrypt data <br>
+- Asymettric Encryption is a Public Key Encryption: it uses two keys (a public key for encypting, and a private key for decrypting) <br>
+- The benefit here is that a sender does not need the receiver’s key to encrypt a message, but needs it to decrypt it. <br>
 
 GitHub pages actions:
-1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?: <br>
-Gather code information from everyone on github, to create a very large collaborative project where everyone has one page to share their favorite feature/minilab they have created.
-3. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?: <br>
-Del Norte has used crowdsorucing before to elect and choose the best asb president and other positions. the choice is representative of everyone's group decision because everyone gives there opinion. Crowdsourcing from other students could help my final project to choose what kinda of features everyone most wants on a reading website. <br>
+1. Describe PII you have seen on project in CompSci Principles. <br>
+One example of PII I have seen in CSP was the example table for the CRUD project. This is PII because there were entry boxes for people to enter their name and email address, which could then be accessed by every single student in CSP.<br>
+2. What are your feelings about PII and your exposure?<br>
+It's a little scary knowing how easily people could find my personal information and knowing what might they do with it, but that knowledge will keep me more accountable for the content I'm putting out into the world and ultimately make my digital presence a litle safer for myself. <br>
+3. Describe good and bad passwords? What is another step that is used to assist in authentication.<br>
+A good password should have a variation of letters, numbers, and symbols. It should also be something very personal that only the creator of the password would know. Besides the actual password itself, another way to strengthen security would be to use multi factor authentication, where a user would have to sign into an account on multiple devices.<br>
+4. Try to describe Symmetric and Asymmetric encryption.<br>
+Symmetric encryption is when only one key is used for both the encryption and decryption of electronic information, whereas Asymmetric encryption allows users to encrypt information using pairs of keys that consist of a public and private key.<br>
+5. Provide and example of encryption we used in deployment.<br>
+An example of encryption used in deployment was the process of Certbot to switch our HTTP site to work in HTTPS, which is more secure, by getting a certificate from Let's Encrypt. <br>
+6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.<br>
+Luckily, there haven't been any instances where I have fallen for a phishing scheme. But I have encountered them because I used to get texts from unknown numbers sending me suspicious links. Other phishing technique I've heard of could be from emails or social media.<br>
 
 
 ### Week 1 Test Prep <br>
