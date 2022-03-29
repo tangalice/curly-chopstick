@@ -7,6 +7,8 @@ from week1.fibonacci import fibonacci
 from week2.factorial import factorial
 from week2.factors import tester
 
+from week3.numbersort import numSort
+
 main_menu = []
 
 week0_sub_menu = [
@@ -28,6 +30,10 @@ week2_sub_menu = [
   ["Factors", tester],
 ]
 
+week3_sub_menu = [
+  ["Number Sort", numSort],
+]
+
 border = "======================="
 banner = f"\n{border}\nPlease Select An Option\n{border}"
 
@@ -38,6 +44,8 @@ def menu():
     menu_list.append(["Week 0", week0_submenu])
     menu_list.append(["Week 1", week1_submenu])
     menu_list.append(["Week 2", week2_submenu])
+    menu_list.append(["Week 3", week3_submenu])
+    
     buildMenu(title, menu_list)
 
 
@@ -52,6 +60,10 @@ def week1_submenu():
 def week2_submenu():
     title = "Week 2 Submenu" + banner
     buildMenu(title, week2_sub_menu)
+
+def week3_submenu():
+    title = "Week 3 Submenu" + banner
+    buildMenu(title, week3_sub_menu)
 
 
 def buildMenu(banner, options):
