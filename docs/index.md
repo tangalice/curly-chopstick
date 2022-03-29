@@ -3,11 +3,11 @@
 ## Alice's Github Pages
 
 
-### Review Tickets
-[Week 0 Review Ticket](https://github.com/tangalice/curly-chopstick/issues/1) <br>
-[Week 1 Review Ticket](https://github.com/tangalice/curly-chopstick/issues/2) <br>
-[Week 2 Review Ticket](https://github.com/tangalice/curly-chopstick/issues/3) <br>
+### Timebox
 
 
-
-
+|Week|Assignment|Review Ticket|
+|--------|---------|-------|
+|Week 2|Classy Functions| [Review Ticket](https://github.com/tangalice/curly-chopstick/issues/3). 
+|Week 1|Loops and Lists|[Review Ticket](https://github.com/tangalice/curly-chopstick/issues/2). 
+|Week 0|Plans, Teams, Jobs|[Review Ticket](https://github.com/tangalice/curly-chopstick/issues/1)
