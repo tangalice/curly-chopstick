@@ -2,6 +2,7 @@ from week0.animation import animate
 from week0.matrix import test_matrices
 from week0.swap import test_swappers
 from week0.tree import tree
+from week0.fishbetter import ship
 from week1.listloop import for_loop, while_loop, recursive_loop
 from week1.fibonacci import fibonacci
 from week2.factorial import factorial
@@ -16,6 +17,7 @@ week0_sub_menu = [
   ["Matrix", test_matrices],
   ["Swap", test_swappers],
   ["Tree", tree],
+  ["Fish Better", ship]
 ]
 
 week1_sub_menu = [

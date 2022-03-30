@@ -22,4 +22,4 @@ def numSort():
             x_is_prime = 'false'
             break
       if (x_is_prime == 'true'):
-        print("Prime Number")
+        print("Prime Number!")
