@@ -22,11 +22,34 @@ def factorial():
 
 if __name__ == "__main__":
     factorial()
-    ```
-    The last line of code calls the function.
+   
+   ```
+ The last line of code calls the function.
 
 ### Week 1 Activites
 Key Learning: I learned about lists and using loops to print the information inside of lists. Using loops is a more effecient way to print everything espeically if you have a lot of information where there are lists inside of lists. I also learned how to troubleshoot a replit page after a week of it not running. I had to reclone my github repo and make sure that I had the language set to python3 before making a new repl.
+
+We learned how to make loops in 3 ways (for, while and recursive) when accessing an InfoDB with a list within a list.
+- A recursive loop calls itself multiple times until the return or exit condition is reached.
+
+```
+def for_loop():
+  for n in range(len(InfoDb)):
+    print_data(n)
+
+# while loop contains an initial n and an index incrementing statement (n += 1)
+def while_loop0(n):
+    while n < len(InfoDb):
+        print_data(n)
+        n += 1
+    return
+
+def recursive_loop0(n):
+  if n < len(InfoDb):
+      print_data(n)
+      recursive_loop0(n + 1)
+  return # exit condition
+  ```
 
 ### Week 0 Activites
 Key Learning: I learned how to "animate something" with the use of funcation, variables and print statements. I also learned how to make a menu <br>
