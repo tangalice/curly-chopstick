@@ -5,6 +5,26 @@
 ### Week 2 Activites
 Key Learning: I learned about classes and OOP method in coding. More specifically, I learned how to code a program that finds the factors of any number.
 
+We made a factorial function using classes
+```
+class Factorial:
+    def findFact(self, n):
+        f = 1
+        for i in range(1, n + 1):
+            f = f * i
+        return f
+
+def factorial():
+  print("Enter a Number: ", end="")
+  num = int(input())
+  ob = Factorial()
+  print("\nFactorial of", num, "=", ob.findFact(num))
+
+if __name__ == "__main__":
+    factorial()
+    ```
+    The last line of code calls the function.
+
 ### Week 1 Activites
 Key Learning: I learned about lists and using loops to print the information inside of lists. Using loops is a more effecient way to print everything espeically if you have a lot of information where there are lists inside of lists. I also learned how to troubleshoot a replit page after a week of it not running. I had to reclone my github repo and make sure that I had the language set to python3 before making a new repl.
 
