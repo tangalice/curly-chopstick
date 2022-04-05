@@ -1,11 +1,11 @@
-# Program to display the Fibonacci sequence up to n-th term
 def recur_fibo(n):
    if n <= 1:
        return n
    else:
        return(recur_fibo(n-1) + recur_fibo(n-2))
 
-# Formatting and printing of the Fibonacci
+
+#prints out the fibonocci with formatting
 def fibonacci():
   nterms = int(input("How many terms? "))
   if nterms <= 0:

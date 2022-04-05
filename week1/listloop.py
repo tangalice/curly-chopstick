@@ -1,5 +1,5 @@
 InfoDb = []
-# List with dictionary records placed in a list  
+# adding information into a list with dictionary inside 
 InfoDb.append({  
                "Name": "Luca",  
                "Nickname": "Fatty shat",  
@@ -28,16 +28,18 @@ InfoDb.append({
                "Likes":["Flying" , "Talking" , "Toys" , "Nuts", "Dancing", "Music"]    
               })  
 
-# given an index this will print InfoDb content
+# an index this will print InfoDb content
 def print_data(n):
     print(InfoDb[n]["Name"]) 
     print("\t", "Nickname: ", end="") 
     print(InfoDb[n]["Nickname"]) 
     print("\t", "Animal: ", end="") 
     print(InfoDb[n]["Animal"]) 
-# using comma puts space between values
-    print("\t", "Likes: ", end="")  # \t is a tab indent, end="" make sure no return occurs
-    print(", ".join(InfoDb[n]["Likes"]))  # join allows printing a string list with separator
+# a comma puts space between values
+    print("\t", "Likes: ", end="")  
+# \t is a tab indent, end="" make sure no return occurs
+    print(", ".join(InfoDb[n]["Likes"]))  
+# join allows printing a string list with separator
     print()
 
 def for_loop():

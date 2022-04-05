@@ -6,9 +6,10 @@ from week0.fishbetter import ship
 from week1.listloop import for_loop, while_loop, recursive_loop
 from week1.fibonacci import fibonacci
 from week2.factorial import factorial
-from week2.factors import tester
+from week2.factors import factester
 
 from week3.numbersort import numSort
+from week3.palindrome import driver
 
 main_menu = []
 
@@ -29,11 +30,12 @@ week1_sub_menu = [
 
 week2_sub_menu = [
   ["Factorial", factorial],
-  ["Factors", tester],
+  ["Factors", factester],
 ]
 
 week3_sub_menu = [
   ["Number Sort", numSort],
+  ["Palindrome", driver]
 ]
 
 border = "======================="
