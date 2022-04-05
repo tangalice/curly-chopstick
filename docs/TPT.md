@@ -4,13 +4,14 @@
 
 ### Week 2 Test Prep <br>
 5.5 Notes: Legal and Ethical Concerns <br>
-- (IP) is a work or invention that is the result of creativity to which one has rights <br>
-- Copyright protects the IP, and prevents people from using it unless permission is granted <br>
-- Plagiarism is when you present material as your own <br>
-- The legal ways to use material created by someone else is Creative Commons, open source, and open access <br>
+- (IP) is a work/invention resulting from creativity. someone has the rights to this <br>
+- Copyright protects the IP, and prevents people from using it unless they have permission <br>
+- Plagiarism is when you take someone elses material and present it as your own <br>
+- There are legal ways to use someone else's material: Creative Commons, open access, and open source <br>
 - Creative commons provides free licenses, they tell others how you want them to use the creations (tells people what they can do with your work) <br>
-- Open source are programs that are freely available for anyone to use <br>
 - Open access is online research that has not a lot of restrictions <br>
+- Open source are programs that are freely available for anyone to use <br>
+
 
 Github Pages Action:
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages. <br>
