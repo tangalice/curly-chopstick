@@ -6,9 +6,7 @@
 [Create Task Written Description](https://github.com/samayass/flask_portfolio/wiki/Week-11-PBL-Final-Samaya-and-Alice) <br>
 [Create Task Runtime](http://studyowl.tk:8080/test/) <br>
 [Create Task Code](https://github.com/samayass/flask_portfolio/blob/main/templates/test.html)
-
-
-<iframe height="900px" width="700px" src="https://replit.com/@samayas/createtask?lite=true#main.py"></iframe>
+[Create Task Repl](https://replit.com/@Samayas/Create-Task#main.py)
 
 
 Snippets:
