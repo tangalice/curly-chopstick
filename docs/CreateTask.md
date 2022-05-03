@@ -3,11 +3,9 @@
 ## Create Task
 
 [Create Task Description](https://github.com/samayass/flask_portfolio/wiki/Create-Task-Plan:-Samaya-&-Alice) <br>
-[Create Task Written Description](https://github.com/samayass/flask_portfolio/wiki/Week-11-PBL-Final-Samaya-and-Alice) <br>
-[Create Task Runtime](http://studyowl.tk:8080/test/) <br>
+[Create Task Written Description](https://drive.google.com/file/d/1bJ8RP_Us56WtYtoJhd88aYHvmctHKcqj/view?usp=sharing) <br>
 [Create Task Repl](https://replit.com/@Samayas/Create-Task#main.py) <br>
-[Create Task Code](https://github.com/samayass/flask_portfolio/blob/main/templates/test.html) <br>
-[1 min Video](https://drive.google.com/file/d/1kvA_-VCZurnvyExU38HM8dVdbWspnsNv/view?usp=sharing)
+[1 min Video](https://drive.google.com/file/d/1ahMxvOaYdAlusTsWBGaeIIOmS4trzdoY/view?usp=sharing)
 
 
 
