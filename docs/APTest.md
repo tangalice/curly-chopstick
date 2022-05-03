@@ -18,3 +18,9 @@ Quiz 2
 
 Corrections:
 - Q14 The two line graphs are roughly the same shape. Each value on the right line graph is about 10 times the corresponding value on the left line graph. Therefore, the average amount of data stored per user is about 10 GB.
+
+Quiz 3
+![Screen Shot 2022-05-02 at 11 31 17 PM](https://user-images.githubusercontent.com/89223922/166412766-19922504-70ef-4d08-96f7-5aa8e980513d.png)
+
+Corrections
+- 
