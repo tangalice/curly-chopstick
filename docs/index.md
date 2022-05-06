@@ -8,7 +8,7 @@
 
 |Week|Assignment|Review Ticket|Score|
 |--------|---------|-------|-------|
-|Week 4|Quiz4| [Review Ticket](https://github.com/tangalice/curly-chopstick/issues/10) | /1.5
+|Week 4|Quiz4| [Review Ticket](https://github.com/tangalice/curly-chopstick/issues/10) | 2/2
 |Week 6|Quiz3, Create Task| [Review Ticket](https://github.com/tangalice/curly-chopstick/issues/8) | 4.5/4.5
 |Week 5|Quiz1, Quiz1 Scores| [Review Ticket](https://github.com/tangalice/curly-chopstick/issues/7) | 5/5
 |Week 4|Accounts and Logins| [Review Ticket](https://github.com/tangalice/curly-chopstick/issues/5) | 5/5
