@@ -33,3 +33,17 @@ Corrections
 - Q42 Using 6 bits will only allow for up to 64 sequences because 2^6=64. Using 7 bits will allow for up to 128 sequences because 2^7=128. Therefore, a minimum of 7 bits are needed.
 - Q46 This is an example of symmetric encryption because the secret key is used for both encryption and decryption of messages.
 
+Quiz 4
+![Screen Shot 2022-05-05 at 11 31 44 PM](https://user-images.githubusercontent.com/89223922/167079199-98dc5bf1-fbc3-48af-ac25-62351153ba3e.png)
+
+Corrections
+- Q7 Using 7 bits will allow for up to 128 employees (2^7=128)
+- Q15 The programs each display ten values, but each value displayed by program B is one greater than the corresponding value from program A. Program A displays 1 2 3 4 5 6 7 8 9 10 and program B displays  2 3 4 5 6 7 8 9 10 11
+- Q16 Program A initializes i to 1. Inside the loop, it prints i and then increments i. The loop terminates when i is greater than 10, which occurs after 10 is printed. Program A prints 1 2 3 4 5 6 7 8 9 10. Program B initializes i to 0. Inside the loop, it increments i and then prints i. The loop terminates when i equals 10, which occurs after 10 is printed. Program B prints 1 2 3 4 5 6 7 8 9 10.
+- Q31 The game piece begins at the rightmost black space. The piece moves one space to the left to a yellow space, and the counter is incremented to 1. The piece then moves three spaces to the left to another yellow space, and the counter is incremented to 2. The piece then moves three spaces to the left to a green space, and the counter is incremented to 3. The piece then moves two spaces to the right to the red space, and the counter is incremented to 4. The algorithm terminates now that the piece is in the red space.
+- Q38 This code segment rotates right whenever there is an open square to the right. The robot will move forward from its initial location to the upper-left corner of the grid, then rotate right, then move forward to the upper-right corner of the grid, then rotate right, then move down two squares, then rotate right, then move forward to the gray square.
+- Q39 Using 8 bits will allow for up to 256 characters (2^8 = 256)
+- Q43 The Internet was designed to be scalable, using open protocols to easily connect additional computing devices to the network.
+- Q48 Certificate authorities are entities that issue digital certificates, which are used to certify the ownership of public keys.
+
+
